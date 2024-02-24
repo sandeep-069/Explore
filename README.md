@@ -44,6 +44,9 @@ REACT_APP_ASSET_URL=http://localhost:5000
 6. Start both client and server using: `npm start`
 
 ## Screenshots
-![Screenshot 1](/images/screenshot1.png)
-![Screenshot 2](/images/screenshot2.png)
+![Home](/images/s1.jpg)
+![Login](/images/s2.jpg)
+![Add Place](/images/s3.jpg)
+![My Places](/images/s4.jpg)
+
 
